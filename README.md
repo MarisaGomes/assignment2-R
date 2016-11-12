@@ -1,7 +1,10 @@
 # Tutorial
 
 This is my tutorial repository.
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 # R-programming-Assignment2
 
 # The first function, makeVector creates a special "vector", which is really a list containing a function to
