@@ -1,9 +1,6 @@
-## Tutorial
 
-This is my tutorial repository.
 <<<<<<< Updated upstream
 
-=======
 >>>>>>> Stashed changes
 ## R-programming-Assignment2
 
